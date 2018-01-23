@@ -1,12 +1,1 @@
-{
-  "STCB0000065": {
-    "BANK": "SBM BANK MAURITIUS LIMITED",
-    "IFSC": "STCB0000065",
-    "BRANCH": "RTGS-HO",
-    "ADDRESS": "101,RAHEJA CENTRE 1ST FLOOR,FREE PRESS JOURNAL ROAD,NARIMANPOINT MUMBAI 400021",
-    "CONTACT": "43028826",
-    "CITY": "MUMBAI",
-    "DISTRICT": "MAHARASHTRA",
-    "STATE": "MAHARASHTRA"
-  }
-}
+{"filename":"/home/kunal/Documents/IFSC_Reverse_Lookup/loki/output/STCB.json","collections":[{"name":"bin","data":[{"BANK":"SBM BANK MAURITIUS LIMITED","IFSC":"STCB0000065","BRANCH":"RTGS-HO","ADDRESS":"101,RAHEJA CENTRE 1ST FLOOR,FREE PRESS JOURNAL ROAD,NARIMANPOINT MUMBAI 400021","CONTACT":"43028826","CITY":"MUMBAI","DISTRICT":"MAHARASHTRA","STATE":"MAHARASHTRA","meta":{"revision":0,"created":1516690525828,"version":0},"$loki":1}],"idIndex":[1],"binaryIndices":{},"constraints":null,"uniqueNames":[],"transforms":{},"objType":"bin","dirty":true,"cachedIndex":null,"cachedBinaryIndex":null,"cachedData":null,"adaptiveBinaryIndices":true,"transactional":false,"cloneObjects":false,"cloneMethod":"parse-stringify","asyncListeners":false,"disableChangesApi":true,"disableDeltaChangesApi":true,"autoupdate":false,"serializableIndices":true,"ttl":null,"maxId":1,"DynamicViews":[],"events":{"insert":[null],"update":[null],"pre-insert":[],"pre-update":[],"close":[],"flushbuffer":[],"error":[],"delete":[null],"warning":[null]},"changes":[]}],"databaseVersion":1.5,"engineVersion":1.5,"autosave":false,"autosaveInterval":5000,"autosaveHandle":null,"throttledSaves":true,"options":{"serializationMethod":"normal","destructureDelimiter":"$<\n"},"persistenceMethod":"fs","persistenceAdapter":null,"verbose":false,"events":{"init":[null],"loaded":[],"flushChanges":[],"close":[],"changes":[],"warning":[]},"ENV":"NODEJS"}

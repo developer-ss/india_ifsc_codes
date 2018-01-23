@@ -1,12 +1,1 @@
-{
-  "RABO0000001": {
-    "BANK": "RABOBANK INTERNATIONAL",
-    "IFSC": "RABO0000001",
-    "BRANCH": "RTGS-HO",
-    "ADDRESS": "LEVEL 20, TOWER A, PENINSULA BUSINESS PARK,SENAPATI BAPAT MARG,LOWER PAREL,MUMBAI 400 013.",
-    "CONTACT": "22015566",
-    "CITY": "MUMBAI",
-    "DISTRICT": "MUMBAI",
-    "STATE": "MAHARASHTRA"
-  }
-}
+{"filename":"/home/kunal/Documents/IFSC_Reverse_Lookup/loki/output/RABO.json","collections":[{"name":"bin","data":[{"BANK":"RABOBANK INTERNATIONAL","IFSC":"RABO0000001","BRANCH":"RTGS-HO","ADDRESS":"LEVEL 20, TOWER A, PENINSULA BUSINESS PARK,SENAPATI BAPAT MARG,LOWER PAREL,MUMBAI 400 013.","CONTACT":"22015566","CITY":"MUMBAI","DISTRICT":"MUMBAI","STATE":"MAHARASHTRA","meta":{"revision":0,"created":1516690524931,"version":0},"$loki":1}],"idIndex":[1],"binaryIndices":{},"constraints":null,"uniqueNames":[],"transforms":{},"objType":"bin","dirty":true,"cachedIndex":null,"cachedBinaryIndex":null,"cachedData":null,"adaptiveBinaryIndices":true,"transactional":false,"cloneObjects":false,"cloneMethod":"parse-stringify","asyncListeners":false,"disableChangesApi":true,"disableDeltaChangesApi":true,"autoupdate":false,"serializableIndices":true,"ttl":null,"maxId":1,"DynamicViews":[],"events":{"insert":[null],"update":[null],"pre-insert":[],"pre-update":[],"close":[],"flushbuffer":[],"error":[],"delete":[null],"warning":[null]},"changes":[]}],"databaseVersion":1.5,"engineVersion":1.5,"autosave":false,"autosaveInterval":5000,"autosaveHandle":null,"throttledSaves":true,"options":{"serializationMethod":"normal","destructureDelimiter":"$<\n"},"persistenceMethod":"fs","persistenceAdapter":null,"verbose":false,"events":{"init":[null],"loaded":[],"flushChanges":[],"close":[],"changes":[],"warning":[]},"ENV":"NODEJS"}
